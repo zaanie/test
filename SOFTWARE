@@ -1,0 +1,11 @@
+class dog{
+private string name;
+int age;
+}
+dog (){this (browni,1,brown}
+dog (string name, int age , string color )
+{this.name = name;
+this.age = age;
+this.color = color;
+}
+ 
